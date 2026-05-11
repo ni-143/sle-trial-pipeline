@@ -3,5 +3,6 @@ joblib
 pandas
 numpy==2.3.5
 scikit-learn
+xgboost
 requests
 plotly
